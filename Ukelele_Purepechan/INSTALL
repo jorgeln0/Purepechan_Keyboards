@@ -1,0 +1,8 @@
+Installation instructions for MacOS:
+
+1. Download the keyboard from this GitHub repository (https://github.swarthmore.edu/Ling073-sp21/ling073-tsz-keyboard). Either clone the entire repository or access the raw text of our GitHub Purépecha Keyboard (https://github.swarthmore.edu/raw/Ling073-sp21/ling073-tsz-keyboard/master/Purepechan.keylayout?token=AAABHAEOBCBVNGUVFSMH73LAILR7A) (make sure to change the file type from .txt to .keylayout if downloading raw text).
+2. Switch into the directory where you saved the file on Terminal and type the following command: sudo cp Purepechan_Keyboard.keylayout /Library/Keyboard\ Layouts/
+3. Restart your machine
+4. Navigate to: System Preferences > Keyboard > Input Sources > +
+5. Scroll down on the list of languages to where it says "Others"
+6. Click on "Purépecha"
